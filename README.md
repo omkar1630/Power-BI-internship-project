@@ -19,6 +19,5 @@ This repository contains my completed Power BI internship project, including all
 ## How to Open
 Open the `.pbix` files using Power BI Desktop (version 2022 or later).
 
-## Screenshots
-![Dashboard](/Dashboard.png)
+
 
